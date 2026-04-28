@@ -1,2 +1,9 @@
-# 0x326
-The Web Programming Place
+# 0x326 - Web Programming
+
+This is COMPSCI 326 Web Programming. A course that was first introduced by Tim Richards to the Computer Science Department, now known as the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu), at the University of Massachusetts in Fall 2011. It is the culmination of decades of investigation and exploration on web technology and how to program it. It has changed drastically over the years and continues to evolve at record pace. This course keeps the instructor busy and there is never a dull moment. It will continue to evolve and likely never stop. Below is the terribly outdated description which is dire need of an update.
+
+## Description
+
+The web is arguably today's most important application platform. Web browsers run on practically every device, and even many phone applications are in fact web applications under the covers. This course will cover a broad range of client-side web technologies, including HTTP itself, HTML5, CSS, and JavaScript; it will additionally cover key concepts for the server side of web applications, including key value stores and SQL servers. This course will also cover key concepts and technologies including AJAX, JavaScript libraries (e.g., jQuery), and web security. This course is hands-on and heavily project-based; students will construct a substantial dynamic web application based on the concepts, technologies, and techniques presented during lectures and in readings. This course satisfies the IE Requirement and an Elective for both the CS and INFORM Majors. Note: as the name web programming denotes, programming is a key component of this class. Previous background in JavaScript is strongly recommended.
+
+You get the gist - until this is updated, this is what we will go with. Being the web as it is, all of the above is still relevant, it has simply evolved and terms like "AJAX" and "jQuery" make it sound old and crusty. Trust me, this course is neither old or crusty. It is vibrant, smooth, and colorful like a morning smoothie.
